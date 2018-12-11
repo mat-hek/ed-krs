@@ -16,10 +16,10 @@ match f=((s:Subject)-[:WORKS*6]-(s)) return f limit 1000
 
 ![](img/trojkaty.png)
 
-## Formy prawne
+## formy prawne
 
 nazwa | id | ilość
--|-
+-|-|-
 brak danych | - | 1321652
 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ | 14 | 423661
 STOWARZYSZENIE | 15 | 80055
@@ -73,7 +73,7 @@ OGÓLNOKRAJOWA REPREZENTACJA ZRZESZEŃ HANDLU I USŁUG | 33 | 1
 ## główne składowe
 
 lp | id składowej | rozmiar | zawartość
--|-
+-|-|-|-
 1 | 505203 | 827362 | 249_013 podmiotów, 578_349 osób 962_906 relacji, 1587 osób powyżej 15 relacji, rozkład spółek jak w całym grafie
 2 | 965404 | 308 | spółki Martina Langi i Bartosza Helda
 3 | 1670862 | 252 | spółki Przemysława Borucha
